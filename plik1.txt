@@ -1,0 +1,6 @@
+linia1
+linia2
+linia3
+nowalinia4
+nowalinia5
+nowalinia6
